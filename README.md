@@ -1,4 +1,4 @@
-# Playground
+# Git - fighters
 
 A place to play with `git`.
 
